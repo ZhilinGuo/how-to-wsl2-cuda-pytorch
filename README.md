@@ -77,7 +77,7 @@ This guide has been tested on Windows 11 but should also work on Windows 10.
 
 ### Install CUDA toolkit
 
-## Install OpenGL on Ubuntu
+<!-- ## Install OpenGL on Ubuntu -->
 
 - Since WSL 2 relies on Nvidia Windows driver and GPU paravirtualisation, it is vital to install CUDA toolkit inside WSL 2 __without__ installing Nvidia Linux driver.
 
