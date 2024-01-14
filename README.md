@@ -4,6 +4,10 @@
 
 Welcome to this simple guide designed to help you navigate the integration and utilization of __CUDA with PyTorch in a WSL2 (Windows Subsystem for Linux 2) environment__. This project aims to bridge the gap between Windows-based development and the powerful capabilities of Linux-driven, GPU-accelerated deep learning.
 
+This guide has been tested on Windows 11 but should also work on Windows 10.
+
+**This guide is work in progress `:fire:`**
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -12,7 +16,13 @@ Welcome to this simple guide designed to help you navigate the integration and u
 
 ## Find Compatible PyTorch Version
 
-[List the prerequisites for the project, like specific versions of WSL2, CUDA, PyTorch, and any other software or hardware requirements.]
+## Install Ubuntu through WSL2
+
+## Install CUDA toolkit on Ubuntu
+
+## Install OpenGL on Ubuntu
+
+## Install OpenGL on Ubuntu
 
 ## License
 
