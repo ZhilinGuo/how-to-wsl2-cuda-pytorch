@@ -92,9 +92,9 @@ This guide has been tested on Windows 11 but should also work on Windows 10.
 
 - Use [this](https://developer.nvidia.com/cuda-toolkit-archive) CUDA toolkit archive page and choose the version you want. I will use version 11.8 as an example.
 
-- Select __Linux__ as Operating System, __x86_64__ as Architecture, __Ubuntu__ as Distribution, and select your WSL2's Ubuntu version (__22.04 in my case__). Select __deb (local)__ as Installer Type.
+- Select __Linux__ as Operating System, __x86_64__ as Architecture, __Ubuntu__ as Distribution, and select your WSL2's Ubuntu version (__22.04 in my case__). Select __deb (local)__ as Installer Type. Installation instructions will appear.
 
-- Use the Installation Instructions __EXCEPT THE LAST LINE__:
+- Use their Installation Instructions __EXCEPT THE LAST LINE__, like below:
     ```
     wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-ubuntu2204.pin
     sudo mv cuda-ubuntu2204.pin /etc/apt/preferences.d/cuda-repository-pin-600
