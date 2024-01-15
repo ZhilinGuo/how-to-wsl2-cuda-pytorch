@@ -6,7 +6,7 @@ Welcome to this simple guide designed to help you navigate the utilization of __
 
 This guide has been tested on Windows 11 but should also work on Windows 10.
 
-**This guide is work in progress:fire:**
+**This guide is work in progress :fire:**
 
 ## Table of Contents
 
